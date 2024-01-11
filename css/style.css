@@ -9,6 +9,7 @@
   }
 body {
     background-position: fixed;
+    background-image: url(/img/fondo-nubes.png);
     background-size: 100%;
     background-repeat: repeat-y;
     background-color: black;
