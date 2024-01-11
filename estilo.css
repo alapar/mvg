@@ -1,0 +1,13 @@
+#carrusel {
+    display: flex;
+    width: 300px;
+    height: auto;
+    flex-direction: row;
+   }
+   
+   .elemento {
+    width: 300px;
+    height: auto;
+    flex-direction: row;
+    width: 100%;
+   }
